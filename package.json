@@ -1,0 +1,20 @@
+{
+  "name": "@joshnav/simple-example-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuanr5/simple-example-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuanr5/simple-example-npm-package/issues"
+  },
+  "homepage": "https://github.com/joshuanr5/simple-example-npm-package#readme"
+}
